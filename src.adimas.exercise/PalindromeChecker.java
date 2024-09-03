@@ -1,4 +1,4 @@
-package src.adimas.exercis;
+package src.adimas.exercise;
 
 import java.util.Scanner;
 
