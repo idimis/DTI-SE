@@ -1,5 +1,4 @@
 package src.adimas.exercise;
-import java.util.Scanner;
 
 public class OddEvenChecker {
     public static boolean isOdd(int n) {
