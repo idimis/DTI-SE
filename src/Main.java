@@ -9,8 +9,8 @@ import com.adimas.exercise.day4.Exercise4;
 public class Main {
 
     public static void main(String[] args) {
-       // Exercise2.run();
-       // Exercise3.run();
+            Exercise2.run();
+            Exercise3.run();
             Exercise4.run();
 
 
