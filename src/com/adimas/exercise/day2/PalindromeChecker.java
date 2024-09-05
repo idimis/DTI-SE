@@ -1,5 +1,4 @@
-package src.adimas.exercise;
-import java.util.Scanner;
+package com.adimas.exercise.day2;
 
 public class PalindromeChecker {
     public static boolean isPalindrome(String str) {
@@ -7,7 +6,7 @@ public class PalindromeChecker {
         return str.equals(reversed);
     }
 
-    public static void main(String[] args) {
+    public static void run() {
         String word = "madam";
         System.out.println(word + " is a palindrome? " + isPalindrome(word));
 

@@ -1,8 +1,7 @@
-package src.adimas.exercise;
-import java.util.Scanner;
+package com.adimas.exercise.day2;
 
 public class StringManipulator {
-    public static void main(String[] args) {
+    public static void run() {
         String str = "Hello world";
         String searchString = "ell";
         String result = str.replaceFirst(searchString, "");

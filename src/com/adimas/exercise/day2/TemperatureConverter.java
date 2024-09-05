@@ -1,8 +1,8 @@
-package src.adimas.exercise;
+package com.adimas.exercise.day2;
 import java.util.Scanner;
 
 public class TemperatureConverter {
-    public static void main(String[] args) {
+    public static void run() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter temperature in Fahrenheit: ");
         double fahrenheit = scanner.nextDouble();
