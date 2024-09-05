@@ -5,7 +5,7 @@ import com.adimas.exercise.day4.Exercise4;
 public class Main {
     public static void main(String[] args) {
 
-    Exercise4.run();
+        Exercise4.run();
 
 
     }
