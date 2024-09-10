@@ -31,7 +31,7 @@ public class Exercise7 {
                         runAverageCalculator();
                         break;
                     case 2:
-                        runCSVReader();
+                        runProductSummary();
                         break;
                     case 3:
                         System.out.println("Exiting...");
@@ -85,7 +85,7 @@ public class Exercise7 {
     }
 
     // Task 2: Process CSV file and calculate product summary
-    public static void runCSVReader() {
+    public static void runProductSummary() {
         // Define the path to the CSV file
         String csvFilePath = "res/product_sales_data.csv";
 
