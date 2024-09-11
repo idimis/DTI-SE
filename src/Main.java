@@ -10,12 +10,12 @@ import com.adimas.exercise.day8.Exercise8;
 public class Main {
 
     public static void main(String[] args) {
-           // Exercise2.run();
-           // Exercise3.run();
-           // Exercise4.run();
-           // Exercise5.run();
-           // Exercise6.run();
-           // Exercise7.run();
+            Exercise2.run();
+            Exercise3.run();
+            Exercise4.run();
+            Exercise5.run();
+            Exercise6.run();
+            Exercise7.run();
             Exercise8.run();
             System.out.println("test.");
 
