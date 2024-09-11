@@ -1,3 +1,5 @@
+package com.adimas.exercise.day8;
+
 import java.util.Scanner;
 
 class Ticket {
