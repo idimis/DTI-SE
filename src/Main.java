@@ -5,6 +5,7 @@ import com.adimas.exercise.day5.Exercise5;
 import com.adimas.exercise.day6.Exercise6;
 import com.adimas.exercise.day7.Exercise7;
 import com.adimas.exercise.day8.Exercise8;
+import com.adimas.exercise.day9.Exercise9;
 
 
 public class Main {
@@ -17,6 +18,7 @@ public class Main {
             Exercise6.run();
             Exercise7.run();
             Exercise8.run();
+            Exercise9.run();
             System.out.println("test.");
 
 
