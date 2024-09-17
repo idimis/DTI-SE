@@ -7,24 +7,23 @@ import com.adimas.exercise.day7.Exercise7;
 import com.adimas.exercise.day8.Exercise8;
 import com.adimas.exercise.day9.Exercise9;
 import com.adimas.exercise.day10.Exercise10;
+import com.adimas.exercise.day11.Exercise11;
 
 
 public class Main {
 
     public static void main(String[] args) {
-           // Exercise2.run();
-           // Exercise3.run();
-           // Exercise4.run();
-           // Exercise5.run();
-           // Exercise6.run();
-           // Exercise7.run();
-           // Exercise8.run();
-           // Exercise9.run();
+            Exercise2.run();
+            Exercise3.run();
+            Exercise4.run();
+            Exercise5.run();
+            Exercise6.run();
+            Exercise7.run();
+            Exercise8.run();
+            Exercise9.run();
             Exercise10.run();
+            Exercise11.run();
             System.out.println("test.");
-
-
-
 
     }
 }
